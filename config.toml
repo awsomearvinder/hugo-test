@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "/hugo-test"
 languageCode = "en-us"
 # Add it only if you keep the theme in the `themes` directory.
 # Remove it if you use the theme as a remote Hugo Module.
@@ -46,8 +46,8 @@ paginate = 5
     # lastModDisplay = ""
 
     [languages.en.params.logo]
-      logoText = "hello friend"
-      logoHomeLink = "/"
+      logoText = "Benber's test site"
+      logoHomeLink = "/hugo-test"
     # or
     #
     # path = "/img/your-example-logo.svg"
